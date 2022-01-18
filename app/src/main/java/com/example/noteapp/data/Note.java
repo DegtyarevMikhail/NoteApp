@@ -1,7 +1,7 @@
 package com.example.noteapp.data;
 
 import java.io.Serializable;
-
+//pull requests
 public class Note implements Serializable {
 
     private Integer id;

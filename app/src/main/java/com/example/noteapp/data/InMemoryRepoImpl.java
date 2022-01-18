@@ -2,8 +2,8 @@ package com.example.noteapp.data;
 
 import java.util.ArrayList;
 import java.util.List;
-
-public class InMemoryRepoImpl implements Repo{  //pull requests
+//pull requests
+public class InMemoryRepoImpl implements Repo{
 
     private static InMemoryRepoImpl repo;
 

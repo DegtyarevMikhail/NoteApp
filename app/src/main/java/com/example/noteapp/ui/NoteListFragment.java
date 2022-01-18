@@ -1,6 +1,6 @@
 package com.example.noteapp.ui;
 
-import android.content.res.Configuration;
+import android.content.res.Configuration; // pull requests
 import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
