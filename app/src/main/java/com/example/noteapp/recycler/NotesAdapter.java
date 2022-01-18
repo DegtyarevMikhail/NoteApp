@@ -15,9 +15,9 @@ import com.example.noteapp.data.Note;
 import java.util.ArrayList;
 import java.util.List;
 
+//pull requests
 
-
-public class NotesAdapter extends RecyclerView.Adapter<NoteHolder> {  //pull requests
+public class NotesAdapter extends RecyclerView.Adapter<NoteHolder> {
 
     private List<Note> notes = new ArrayList<>();
 

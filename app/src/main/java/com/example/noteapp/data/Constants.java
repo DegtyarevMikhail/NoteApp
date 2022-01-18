@@ -1,6 +1,6 @@
 package com.example.noteapp.data;
 
-public interface Constants {
+public interface Constants { //pull requests
 
     public static final String NOTE = "NOTE";
     public static final String NOTE_ID ="NOTE_ID";

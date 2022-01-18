@@ -1,6 +1,6 @@
 package com.example.noteapp.recycler;
 
-import android.view.View;
+import android.view.View;  //pull requests
 import android.widget.TextView;
 
 import androidx.annotation.NonNull;

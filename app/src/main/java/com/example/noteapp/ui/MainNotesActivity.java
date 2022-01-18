@@ -41,18 +41,6 @@ public class MainNotesActivity extends AppCompatActivity {
     }
 
 
-/*
-
-   @Override
-    protected void onResume() {
-        super.onResume();
-        if (adapter != null) {
-            adapter.notifyDataSetChanged();
-        }
-    }
-
- */
-
     private void fillRepo() {
         repository.create(new Note("NOTE 1", "DESCRIPTION 1 "));
         repository.create(new Note("NOTE 2", "DESCRIPTION 2 "));
